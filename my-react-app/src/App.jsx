@@ -1,7 +1,7 @@
 function App() {
   return (
     <div className="App">
-      <h1>WALA EH MAHAL KO PA HUHU!</h1>
+      <h1>Hello IT241 from Vercel!</h1>
     </div>
   );
 }
